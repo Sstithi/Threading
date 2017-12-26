@@ -4,7 +4,7 @@ package Next;
  use another parent class if we need to implement any other parent class if needed
  */
 
-
+//file
 
 public class A__B {
 	public static void main(String[] args) {

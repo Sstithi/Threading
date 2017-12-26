@@ -1,3 +1,4 @@
+//file
 package Next;
 
 class B extends Thread
